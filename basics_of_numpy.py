@@ -47,3 +47,8 @@ print(np.zeros(3)) #its just create the array which has the elements only zero o
 print(np.zeros((3,4)))
 
 
+#similar to the 0 we have a built in function ones
+print(np.ones(6))
+
+print(np.ones((3,4)))
+
