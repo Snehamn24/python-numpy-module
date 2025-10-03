@@ -37,3 +37,13 @@ print("2-dimensional array ")
 print(arr3)
 
 
+#Creating the Array which are only filled with the 0's using the zeroes method
+
+#Using only 1 parameter
+print(np.zeros(3)) #its just create the array which has the elements only zero of size 3
+
+
+#The below array consist of the only zeroes with the 3 rows and 4 columns
+print(np.zeros((3,4)))
+
+
